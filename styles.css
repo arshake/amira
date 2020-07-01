@@ -1,0 +1,197 @@
+body {
+font-family: 'Flamenco', cursive;
+text-align: center;
+color: #a6dcef;
+background-color:#0c2233;
+}
+
+.title {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  /* position: relative; */
+  text-align: center;
+  /* left: 450px; */
+  color: #66BFBF;
+}
+
+
+.img {
+  width: 100px;
+  height:100px;
+}
+
+.subtitle {
+  color: #66BFBF;
+  font-family: 'Flamenco', cursive;
+  font-size: 20px;
+  font-weight: normal;
+  /* position: relative; */
+  /* left: 250px; */
+  text-align: center;
+
+}
+
+
+.bottom {
+  font-size: 30px;
+  background-color:navy;
+}
+
+
+h3{
+  /* position: relative; */
+  /* left: 250px; */
+  color: #11999E;
+  font-family: 'Patua One', cursive;
+}
+
+.myskills{
+  font-family: 'Patua One', cursive;
+  font-size: 50px;
+  /* position: relative; */
+  /* left: 600px; */
+  margin: 0 6px;
+}
+
+p {
+  /* position: relative; */
+  /* left: 250px; */
+  font-family: 'Flamenco', cursive;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.singing {
+  /* border-radius: 200000px; */
+  /* position: relative; */
+  height: 300px;
+  /* left: 250px; */
+  float: left;
+}
+
+.sociable {
+  float: right;
+  border-radius: 100%;
+  width: 200px;
+  /* position: relative; */
+  /* left: 250px; */
+  margin-left: 20px;
+}
+
+
+
+
+.buttom-cloud {
+  position: relative;
+  /* left: 250px; */
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.top-cloud {
+  /* position: relative; */
+  /* left: 300px; */
+
+}
+
+.mountain {
+  /* position: relative;
+  left: 250px; */
+  margin: auto;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 200px;
+  /* position: relative; */
+  /* left: 600px; */
+  line-height: 4px;
+}
+
+.hi{
+  /* position:relative;
+  left: 600px; */
+
+}
+.my-name {
+  /* position: relative;
+  left: 600px; */
+
+}
+
+.sing {
+/* width: 600px; */
+}
+
+.skill-row {
+width: 50%;
+text-align: center;
+margin: 10% 25%;
+}
+
+
+
+
+.top-container {
+  line-height: 2px;
+
+}
+
+.h3 {
+  color: #11999E;
+  font-size: 30px;
+
+}
+.contact-me {
+  font-size: 40px;
+  text-decoration: none;
+}
+
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+}
+.footerlink{
+  /* position: relative;
+  left: 252px; */
+  color:lime ;
+  text-decoration: none;
+}
+
+.footer--link {
+  /* position: relative;
+  left: 253px; */
+  color: crimson ;
+  text-decoration: none;
+}
+
+
+.btn {
+  /* position: relative;
+  left: 270px; */
+font-size: 25px;
+text-decoration:none;
+font-weight: 300;
+font-style: normal;
+
+}
+
+
+ hr{
+  position: relative;
+  border-top: 5px dotted teal;
+  border-bottom: 5px dotted salmon;
+ border-left: 5px dotted hotpink;
+ border-right: 5px dotted aqua;
+width: 40px;
+}
+
+.contact {
+  margin: 5%;
+}
